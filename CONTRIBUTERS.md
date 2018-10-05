@@ -11,6 +11,3 @@
 - Languages: JavaScript, HTML, CSS, ECMAScript, PHP, C++, 6510, ARM... etc..etc
 - Social: Negatron99 in many places, Negatron99#0683 (Discord)
 - Personal Site: not yet
-
-
- 
